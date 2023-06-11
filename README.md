@@ -1,1 +1,1 @@
-# eggClub
+# eggClub mobile training
