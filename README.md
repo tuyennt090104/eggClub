@@ -20,3 +20,15 @@ Bài tập làm thêm =)): Chia thêm role cho nhân sự. Cụ thể:
 + List bảng lương (ID, name, salary, ROLE)
 + List nhân sự theo ROLE
 ROLE ở đây có thể là "manager", "director", "worker", ...
+
+-Encapsulation in OOP refers to binding the data and the methods to manipulate that data together in a single unit (class).
+-Advantages of Encapsulation:
+	+Classes are easier to change and maintain.
+	+We can specify which data member we want to keep hidden or accessible.
+	+We decide which variables have read/write privileges (increases flexibility).
+-Inheritance provides a way to create a new class from an existing class. The new class is a specialized version of the existing class such that it inherits all the non-private fields (variables) and methods of the existing class. The existing class is used as a starting point or as a base to create the new class.
+-Advantages of Inheritance:
+	+Re-usability
+	+Avoiding Duplication of Code
+	+Extensibility
+	+Data Hiding
